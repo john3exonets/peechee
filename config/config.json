@@ -1,0 +1,8 @@
+{
+   "debug": 1,
+   "logdir": "./logs",
+   "logfile": "peechee.log",
+   "dbhost": "127.0.0.1",
+   "dbfile": "./database/peechee.db",
+   "browser": "Google Chrome"
+}
